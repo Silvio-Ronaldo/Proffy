@@ -43,7 +43,7 @@
 
 
 <h2>📌 Status</h2>
-<h4 align="center">👩‍🏫 Proffy is in development... 🚀</h4></br>
+<h4 align="center">👩‍🏫 Proffy is complete. 🚀</h4></br>
 
 
 
