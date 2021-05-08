@@ -86,7 +86,7 @@
     <p><code>yarn install</code> or <code>yarn</code></p>
   </li>
   <li>Start the database with Knex migrations:
-    <p><code>yarn knex:migrate</code></p>
+    <p><code>yarn knex migrate:latest</code></p>
   </li>
   <li>Start the development server:
     <p><code>yarn start</code></p>
