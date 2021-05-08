@@ -48,9 +48,14 @@
 
 
 <h2>🖥️ Demonstration</h2>
-<h3>Web</h3>
+<h3>New Teacher</h3>
   <p align="center">
-    <img src="./assets/home.gif" alt="Proffy web" />
+    <img src="./assets/teacher.gif" alt="Proffy web teacher" />
+  </p></br>
+  
+<h3>New Class</h3>
+  <p align="center">
+    <img src="./assets/student.gif" alt="Proffy web class" />
   </p></br>
   
 <h3>Mobile</h3>
