@@ -27,9 +27,7 @@ function TeacherList() {
             }
         });
 
-        console.log(data);
-
-        setTeachers(data);
+        setTeachers(data.classes);
     }
 
     return (
