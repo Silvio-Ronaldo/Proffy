@@ -48,19 +48,21 @@
 
 
 <h2>🖥️ Demonstration</h2>
-<h3>New Teacher</h3>
+<h3>Web - New Teacher</h3>
   <p align="center">
     <img src="./assets/teacher.gif" alt="Proffy web teacher" />
   </p></br>
   
-<h3>New Class</h3>
+<h3>Web - New Class</h3>
   <p align="center">
     <img src="./assets/student.gif" alt="Proffy web class" />
   </p></br>
   
 <h3>Mobile</h3>
   <p align="center">
-    <img src="./assets/usage.gif" alt="Proffy mobile" />
+    <img src="./assets/home-mobile.jpeg" alt="Proffy mobile" height=600 />
+    <img src="./assets/teacher-mobile.jpeg" alt="Proffy teacher mobile" height=600 />
+    <img src="./assets/student-mobile.jpeg" alt="Proffy student mobile" height=600 />
   </p></br>
 
   
